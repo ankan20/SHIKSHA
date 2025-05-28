@@ -1,5 +1,3 @@
-Sure! Here's the full `README.md` content you can copy and save as `README.md` in your project root:
-
 ```md
 # 📚 Shiksha – Smart Classroom Monitoring System
 
