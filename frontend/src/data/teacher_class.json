@@ -1,0 +1,28 @@
+{"class":[
+    {
+      "className": "Algebra 101",
+      "date": "Monday"
+    },
+    {
+      "className": "Calculus 101",
+      "date": "Tuesday"
+    },
+    {
+      "className": "Geometry 101",
+      "date": "Wednesday"
+    },
+    {
+      "className": "Trigonometry 101",
+      "date": "Thursday"
+    },
+    {
+      "className": "Algebra 101",
+      "date": "Friday"
+    },
+    {
+      "className": "Calculus 101",
+      "date": "Monday"
+    }
+  ]
+}
+  

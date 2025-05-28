@@ -1,0 +1,28 @@
+{
+    "teachers": [
+      {
+        "id": 1,
+        "name": "Ms. Smith",
+        "subject": "Mathematics",
+        "description": "Mathematics teacher with 10 years of experience.",
+        "photo": "/images/ms_smith.jpg"
+      },
+      {
+        "id": 2,
+        "name": "Mr. Johnson",
+        "subject": "Science",
+        "description": "Science teacher specializing in chemistry and physics.",
+        "photo": "/images/mr_johnson.jpg"
+      },
+      {
+        "id": 3,
+        "name": "Ms. Brown",
+        "subject": "English",
+        "description": "English teacher with a focus on literature and writing.",
+        "photo": "/images/ms_brown.jpg"
+      }
+    ]
+  }
+  
+
+  
